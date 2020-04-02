@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+  body
+  {
+background-color: red;
+  } 
+  h1
+  {
+background-color: royalblue;
+
+  }    
+</style>
+</head>
+
+<body>
+ <h1 style="text-align: center;" style="font-family: Georgia, 'Times New Roman', Times, serif;">sport</h1>
+ 
+ <img src="soccer.jpg" height="300 px\">
+ <pre style="text-align: center;"  style="font-family: 'Times New Roman', Times, serif;"> <mark>sport is so important</mark> </pre>
+ <pre style="text-align: center;" style="font-align" style="font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;">Sports are a <mark>crucial </mark> part of a student’s growth and development.</pre>
+  <pre style="text-align: center;" style="text-align: center;" style="font-family: initial;"> sport Improves<mark>physical</mark>  and <mark>mental health</mark> </pre> 
+  <pre style="text-align: center;" style="font-family: unset;">sport team <mark>building qualities</mark></pre>
+
+</body>
+</html>
+
+link to my work:file:///C:/Users/97250/Desktop/home.html.html
+
+
+
+
+
+
+
+    
