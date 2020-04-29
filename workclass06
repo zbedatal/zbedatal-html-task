@@ -5,18 +5,17 @@
     <style>
        
         div{
-            /* Content */
+      
             color: blue;
             width: 200px;
             height: 200px;
 
-            /* Padding */
+           
             padding:  15px;
 
-             /* Margin */
              margin:  20px;
 
-            /* Border */ 
+             
             border-width: 5px;
             border-style: double;
             border-color: red;
